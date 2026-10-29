@@ -1,1 +1,1 @@
-# Dynamic-Voltage-and-Frequency-Scaling-DVFS-berbasis-AI
+Dynamic Voltage and Frequency Scaling (DVFS) berbasis AI: Membuat modul pengatur daya prosesor yang menggunakan Reinforcement Learning (RL) untuk menentukan kapan harus menaikkan/menurunkan performa CPU/GPU saat menjalankan inferensi AI agar hemat baterai. 
