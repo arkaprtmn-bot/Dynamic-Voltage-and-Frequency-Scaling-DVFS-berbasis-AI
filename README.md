@@ -1,0 +1,1 @@
+# Dynamic-Voltage-and-Frequency-Scaling-DVFS-berbasis-AI
